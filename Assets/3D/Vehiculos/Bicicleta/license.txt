@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bycicle USSR
+* source:	https://sketchfab.com/3d-models/bycicle-ussr-09b9c490939d4679adff61684243881a
+* author:	Kekoblin (https://sketchfab.com/Kekoblin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bycicle USSR" (https://sketchfab.com/3d-models/bycicle-ussr-09b9c490939d4679adff61684243881a) by Kekoblin (https://sketchfab.com/Kekoblin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
