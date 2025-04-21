@@ -1,0 +1,11 @@
+Model Information:
+* title:	ROAD CLOSED SIGN
+* source:	https://sketchfab.com/3d-models/road-closed-sign-0b8e907e8508406e8560a7adf495d1de
+* author:	exiS7-Gs (https://sketchfab.com/exiS7-Gs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ROAD CLOSED SIGN" (https://sketchfab.com/3d-models/road-closed-sign-0b8e907e8508406e8560a7adf495d1de) by exiS7-Gs (https://sketchfab.com/exiS7-Gs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
